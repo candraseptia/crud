@@ -1,0 +1,8 @@
+# Projek Pertama Pemrograman Web 2
+
+NIM     : 16090048
+Nama    : Candra Septia Cahya
+Kelas   : 5C
+Prodi   : D4 Teknik Informatika
+
+# jangan lupa ;
